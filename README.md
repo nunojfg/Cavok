@@ -1,8 +1,6 @@
-# Cavok
+# Cavok(The code will be provided shortly)
 
 *Acronym of clouds and visibility are OK*
-
-# The code will be provided shortly
 
 ## Description
 
