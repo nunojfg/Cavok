@@ -1,7 +1,5 @@
 # Cavok
 
-![Alt text](https://github.com/nunojfg/Cavok/blob/master/ios-nunojfg/Assets.xcassets/AppIcon.appiconset/nearbyweather_icon%40120.png)
-
 *Acronym of clouds and visibility are OK*
 
 ## Description
@@ -21,3 +19,5 @@ Cavok is owned and maintained by Nuno Gonçalves. You can follow me on Twitter a
 
 ## License
 Cavok is released under the MIT license. [See LICENSE](https://github.com/nunojfg/Cavok/blob/master/LICENSE) for details.
+
+The code will be provided shortly
