@@ -1,4 +1,4 @@
-# Cavok(The code will be provided shortly)
+# Cavok
 
 *Acronym of clouds and visibility are OK*
 
