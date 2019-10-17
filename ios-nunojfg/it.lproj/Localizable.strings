@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ios-nunojfg
+
+  Created by Nuno Gonçalves on 18/05/2019.
+  Copyright © 2019 Nuno Gonçalves. All rights reserved.
+*/
+"retrieving_location" = "Recupero posizione";
+"error_retrieving_location" = "Errore durante il recupero della posizione";
+"warning" = "Warning";
+"search_placeholder" = "Ricerca";

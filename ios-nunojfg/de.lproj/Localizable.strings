@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ios-nunojfg
+
+  Created by Nuno Gonçalves on 18/05/2019.
+  Copyright © 2019 Nuno Gonçalves. All rights reserved.
+*/
+"retrieving_location" = "Standort wird abgerufen";
+"error_retrieving_location" = "Fehler beim Abrufen des Speicherorts";
+"warning" = "Warning";
+"search_placeholder" = "Suche";
