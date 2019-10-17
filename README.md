@@ -2,6 +2,8 @@
 
 *Acronym of clouds and visibility are OK*
 
+The code will be provided shortly
+
 ## Description
 
 This is a simple Weather app that allows to see the forecast for the whole week in 3 hours interval.
@@ -19,5 +21,3 @@ Cavok is owned and maintained by Nuno Gonçalves. You can follow me on Twitter a
 
 ## License
 Cavok is released under the MIT license. [See LICENSE](https://github.com/nunojfg/Cavok/blob/master/LICENSE) for details.
-
-The code will be provided shortly
