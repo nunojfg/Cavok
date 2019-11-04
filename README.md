@@ -13,6 +13,10 @@ The app uses MVVM with service layers to avoid Massive View Models
 
 This is a vanilla iOS project so you can run it directly using the Cavok.xcproject
 
+## Requirements
+
+XCode 11, Swift 5.0
+
 ## Credits
 
 Cavok is owned and maintained by Nuno Gonçalves. You can follow me on Twitter at [@nunojfg](https://twitter.com/nunojfg) for project updates and releases.
