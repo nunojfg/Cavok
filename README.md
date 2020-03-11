@@ -1,3 +1,4 @@
+
 # Cavok
 
 *Acronym of clouds and visibility are OK*
@@ -10,6 +11,9 @@ This app uses the OpenWeatherMap API, and it is localized in 5 languages.
 The app uses MVVM with service layers to avoid Massive View Models
 
 ## Installation
+
+[![Platform](https://img.shields.io/cocoapods/p/aiDee.svg?style=flat)](https://cocoapods.org)
+[![Swift](https://img.shields.io/badge/swift-5.0-orange.svg)](https://cocoapods.org)
 
 This is a vanilla iOS project so you can run it directly using the Cavok.xcproject
 
