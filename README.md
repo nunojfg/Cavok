@@ -1,9 +1,10 @@
-[![Platform](https://img.shields.io/cocoapods/p/aiDee.svg?style=flat)](https://cocoapods.org)
-[![Swift](https://img.shields.io/badge/swift-5.0-orange.svg)](https://cocoapods.org)
-
 # Cavok
 
 *Acronym of clouds and visibility are OK*
+
+[![Platform](https://img.shields.io/cocoapods/p/aiDee.svg?style=flat)](https://cocoapods.org)
+[![Swift](https://img.shields.io/badge/swift-5.0-orange.svg)](https://cocoapods.org)
+[![apm](https://img.shields.io/apm/l/vim-mode.svg)](https://github.com/Cavok/LICENSE)
 
 ## Description
 
